@@ -4,6 +4,106 @@
 
     
   <url>
+    <loc>http://xiongsw.me/2016/10/03/java-design-pattern/</loc>
+    <lastmod>2017-03-07T22:52:39.664Z</lastmod>
+    <data>
+        <display>
+        <title>Java设计模式</title>
+        <pubTime>2016-10-04T01:12:37.000Z</pubTime>
+        
+        <tag>java</tag>
+         
+         
+           
+             
+              <breadCrumb title="java" url="http://xiongsw.me/categories/java/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://xiongsw.me/2016/10/04/java-design-pattern2/</loc>
+    <lastmod>2017-03-07T22:52:39.664Z</lastmod>
+    <data>
+        <display>
+        <title>Java设计模式-创建型</title>
+        <pubTime>2016-10-05T03:12:37.000Z</pubTime>
+        
+        <tag>java</tag>
+         
+         
+           
+             
+              <breadCrumb title="java" url="http://xiongsw.me/categories/java/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://xiongsw.me/2016/10/05/java-design-pattern3/</loc>
+    <lastmod>2017-03-07T22:52:39.664Z</lastmod>
+    <data>
+        <display>
+        <title>Java设计模式-结构型</title>
+        <pubTime>2016-10-06T01:12:37.000Z</pubTime>
+        
+        <tag>java</tag>
+         
+         
+           
+             
+              <breadCrumb title="java" url="http://xiongsw.me/categories/java/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://xiongsw.me/2016/04/25/java-iniFile/</loc>
+    <lastmod>2017-03-07T22:52:39.664Z</lastmod>
+    <data>
+        <display>
+        <title>Java操作Ini文件</title>
+        <pubTime>2016-04-25T21:28:30.000Z</pubTime>
+        
+        <tag>java</tag>
+         
+         
+           
+             
+              <breadCrumb title="java" url="http://xiongsw.me/categories/java/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://xiongsw.me/2016/10/04/java-singleton-pattern/</loc>
+    <lastmod>2017-03-07T22:52:39.664Z</lastmod>
+    <data>
+        <display>
+        <title>Java单例模式</title>
+        <pubTime>2016-10-05T01:12:37.000Z</pubTime>
+        
+        <tag>java</tag>
+         
+         
+           
+             
+              <breadCrumb title="java" url="http://xiongsw.me/categories/java/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://xiongsw.me/2015/03/04/hello-world/</loc>
     <lastmod>2017-03-07T21:30:59.604Z</lastmod>
     <data>
