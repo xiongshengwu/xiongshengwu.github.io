@@ -272,6 +272,148 @@
   
 
   <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+    <link itemprop="mainEntityOfPage" href="http://xiongsw.me/2017/03/04/hexo报错/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="熊生武">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="http://cn.gravatar.com/avatar/d929485a83dea7fbe739b2cb83410e31?s=108&d=http%3A%2F%2Fwww.xiongge.club%2Fwp-content%2Fthemes%2Fyusi%2Fimg%2Fdefault.png&r=g">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="熊生武的博客">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h2 class="post-title" itemprop="name headline">
+            
+            
+              
+                
+                <a class="post-title-link" href="/2017/03/04/hexo报错/" itemprop="url">
+                  hexo g 生成静态文件报错
+                </a>
+              
+            
+          </h2>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2017-03-04T12:22:23-06:00">
+                2017-03-04
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/hexo/" itemprop="url" rel="index">
+                    <span itemprop="name">hexo</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          
+            <p>hexo g 报错</p>
+<pre><code>ERROR Script load failed: themes/hexo-theme-next/scripts/tags/exturl.js
+</code></pre><p>Error: Cannot find module ‘hexo-util’<br>    at Function.Module._resolveFilename (module.js:336:15)<br>    at Function.Module._load (module.js:286:25)<br>    at Module.require (module.js:365:17)<br>    at require (/data/github/hexo/node_modules/hexo/lib/hexo/index.js:213:21)<br>    at /data/github/hexo/themes/hexo-theme-next/scripts/tags/exturl.js:7:12<br>    at /data/github/hexo/node_modules/hexo/lib/hexo/index.js:229:12<br>    at tryCatcher (/data/github/hexo/node_modules/hexo/node_modules/bluebird/js/release/util.js:16:23)<br>    at Promise._settlePromiseFromHandler (/data/github/hexo/node_modules/hexo/node_modules/bluebird/js/release/promise.js:512:31)<br>    at Promise._settlePromise (/data/github/hexo/node_modules/hexo/node_modules/bluebird/js/release/promise.js:569:18)<br>    at Promise._settlePromise0 (/data/github/hexo/node_modules/hexo/node_modules/bluebird/js/release/promise.js:614:10)<br>    at Promise._settlePromises (/data/github/hexo/node_modules/hexo/node_modules/bluebird/js/release/promise.js:693:18)<br>    at Promise._fulfill (/data/github/hexo/node_modules/hexo/node_modules/bluebird/js/release/promise.js:638:18)<br>    at Promise._resolveCallback (/data/github/hexo/node_modules/hexo/node_modules/bluebird/js/release/promise.js:432:57)<br>    at Promise._settlePromiseFromHandler (/data/github/hexo/node_modules/hexo/node_modules/bluebird/js/release/promise.js:524:17)<br>    at Promise._settlePromise (/data/github/hexo/node_modules/hexo/node_modules/bluebird/js/release/promise.js:569:18)<br>    at Promise._settlePromise0 (/data/github/hexo/node_modules/hexo/node_modules/bluebird/js/release/promise.js:614:10)<br>    at Promise._settlePromises (/data/github/hexo/node_modules/hexo/node_modules/bluebird/js/release/promise.js:693:18)<br>    at Promise._fulfill (/data/github/hexo/node_modules/hexo/node_modules/bluebird/js/release/promise.js:638:18)<br>    at /data/github/hexo/node_modules/hexo/node_modules/bluebird/js/release/nodeback.js:42:21<br>    at /data/github/hexo/node_modules/hexo/node_modules/hexo-fs/node_modules/graceful-fs/graceful-fs.js:78:16<br>    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:380:3)<br>INFO  Start processing<br>INFO  Files loaded in 1.49 s<br>INFO  Generated: baidusitemap.xml<br>INFO  Generated: atom.xml<br>INFO  Generated: sitemap.xml<br>INFO  Generated: 404.html<br>INFO  Generated: about/index.html<br>INFO  Generated: categories/index.html<br>INFO  Generated: tags/index.html<br>INFO  Generated: 2015/03/04/hello-world/index.html<br>INFO  Generated: archives/index.html</p>
+<h3 id="一直没解决-网上搜寻很多也没找到解决方案-先记录一下-有空再研究，貌似不影响部署"><a href="#一直没解决-网上搜寻很多也没找到解决方案-先记录一下-有空再研究，貌似不影响部署" class="headerlink" title="一直没解决 网上搜寻很多也没找到解决方案 先记录一下 有空再研究，貌似不影响部署"></a>一直没解决 网上搜寻很多也没找到解决方案 先记录一下 有空再研究，貌似不影响部署</h3>
+          
+        
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+
+
+    
+      
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
     <link itemprop="mainEntityOfPage" href="http://xiongsw.me/2016/10/05/java-design-pattern3/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -1185,7 +1327,7 @@
           
             <div class="site-state-item site-state-posts">
               <a href="/archives">
-                <span class="site-state-item-count">6</span>
+                <span class="site-state-item-count">7</span>
                 <span class="site-state-item-name">日志</span>
               </a>
             </div>
@@ -1194,7 +1336,7 @@
           
             <div class="site-state-item site-state-categories">
               <a href="/categories">
-                <span class="site-state-item-count">1</span>
+                <span class="site-state-item-count">2</span>
                 <span class="site-state-item-name">分类</span>
               </a>
             </div>
@@ -1203,7 +1345,7 @@
           
             <div class="site-state-item site-state-tags">
               <a href="/tags">
-                <span class="site-state-item-count">1</span>
+                <span class="site-state-item-count">2</span>
                 <span class="site-state-item-name">标签</span>
               </a>
             </div>

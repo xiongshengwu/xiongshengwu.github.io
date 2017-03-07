@@ -2,7 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://xiongsw.me/2016/10/03/java-design-pattern/</loc>
+    <loc>http://xiongsw.me/2017/03/04/hexo%E6%8A%A5%E9%94%99/</loc>
+    
+    <lastmod>2017-03-07T23:00:02.964Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://xiongsw.me/2016/04/25/java-iniFile/</loc>
     
     <lastmod>2017-03-07T22:52:39.664Z</lastmod>
     
@@ -23,7 +30,7 @@
   </url>
   
   <url>
-    <loc>http://xiongsw.me/2016/04/25/java-iniFile/</loc>
+    <loc>http://xiongsw.me/2016/10/03/java-design-pattern/</loc>
     
     <lastmod>2017-03-07T22:52:39.664Z</lastmod>
     
