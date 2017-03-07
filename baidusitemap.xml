@@ -47,12 +47,12 @@
 
     
   <url>
-    <loc>http://xiongsw.me/2016/04/25/java-iniFile/</loc>
+    <loc>http://xiongsw.me/2016/10/04/java-singleton-pattern/</loc>
     <lastmod>2017-03-07T22:52:39.664Z</lastmod>
     <data>
         <display>
-        <title>Java操作Ini文件</title>
-        <pubTime>2016-04-25T21:28:30.000Z</pubTime>
+        <title>Java单例模式</title>
+        <pubTime>2016-10-05T01:12:37.000Z</pubTime>
         
         <tag>java</tag>
          
@@ -67,12 +67,12 @@
 
     
   <url>
-    <loc>http://xiongsw.me/2016/10/04/java-singleton-pattern/</loc>
+    <loc>http://xiongsw.me/2016/04/25/java-iniFile/</loc>
     <lastmod>2017-03-07T22:52:39.664Z</lastmod>
     <data>
         <display>
-        <title>Java单例模式</title>
-        <pubTime>2016-10-05T01:12:37.000Z</pubTime>
+        <title>Java操作Ini文件</title>
+        <pubTime>2016-04-25T21:28:30.000Z</pubTime>
         
         <tag>java</tag>
          
