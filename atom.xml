@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://xiongsw.me/"/>
-  <updated>2017-06-27T11:03:13.208Z</updated>
+  <updated>2017-06-27T11:15:58.096Z</updated>
   <id>http://xiongsw.me/</id>
   
   <author>
@@ -20,10 +20,10 @@
     <link href="http://xiongsw.me/2017/03/04/hexo%E6%8A%A5%E9%94%99/"/>
     <id>http://xiongsw.me/2017/03/04/hexo报错/</id>
     <published>2017-03-04T18:22:23.000Z</published>
-    <updated>2017-06-27T11:03:13.208Z</updated>
+    <updated>2017-06-27T11:15:58.096Z</updated>
     
     <content type="html"><![CDATA[<p>hexo g 报错<br><img src="http://os7cquepr.bkt.clouddn.com/image/20170627/xiongge.jpg" alt="xiongge.club"><br>    ERROR Script load failed: themes/hexo-theme-next/scripts/tags/exturl.js<br>Error: Cannot find module ‘hexo-util’<br>    at Function.Module._resolveFilename (module.js:336:15)<br>    at Function.Module._load (module.js:286:25)<br>    at Module.require (module.js:365:17)<br>    at require (/data/github/hexo/node_modules/hexo/lib/hexo/index.js:213:21)<br>    at /data/github/hexo/themes/hexo-theme-next/scripts/tags/exturl.js:7:12<br>    at /data/github/hexo/node_modules/hexo/lib/hexo/index.js:229:12<br>    at tryCatcher (/data/github/hexo/node_modules/hexo/node_modules/bluebird/js/release/util.js:16:23)<br>    at Promise._settlePromiseFromHandler (/data/github/hexo/node_modules/hexo/node_modules/bluebird/js/release/promise.js:512:31)<br>    at Promise._settlePromise (/data/github/hexo/node_modules/hexo/node_modules/bluebird/js/release/promise.js:569:18)<br>    at Promise._settlePromise0 (/data/github/hexo/node_modules/hexo/node_modules/bluebird/js/release/promise.js:614:10)<br>    at Promise._settlePromises (/data/github/hexo/node_modules/hexo/node_modules/bluebird/js/release/promise.js:693:18)<br>    at Promise._fulfill (/data/github/hexo/node_modules/hexo/node_modules/bluebird/js/release/promise.js:638:18)<br>    at Promise._resolveCallback (/data/github/hexo/node_modules/hexo/node_modules/bluebird/js/release/promise.js:432:57)<br>    at Promise._settlePromiseFromHandler (/data/github/hexo/node_modules/hexo/node_modules/bluebird/js/release/promise.js:524:17)<br>    at Promise._settlePromise (/data/github/hexo/node_modules/hexo/node_modules/bluebird/js/release/promise.js:569:18)<br>    at Promise._settlePromise0 (/data/github/hexo/node_modules/hexo/node_modules/bluebird/js/release/promise.js:614:10)<br>    at Promise._settlePromises (/data/github/hexo/node_modules/hexo/node_modules/bluebird/js/release/promise.js:693:18)<br>    at Promise._fulfill (/data/github/hexo/node_modules/hexo/node_modules/bluebird/js/release/promise.js:638:18)<br>    at /data/github/hexo/node_modules/hexo/node_modules/bluebird/js/release/nodeback.js:42:21<br>    at /data/github/hexo/node_modules/hexo/node_modules/hexo-fs/node_modules/graceful-fs/graceful-fs.js:78:16<br>    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:380:3)<br>INFO  Start processing<br>INFO  Files loaded in 1.49 s<br>INFO  Generated: baidusitemap.xml<br>INFO  Generated: atom.xml<br>INFO  Generated: sitemap.xml<br>INFO  Generated: 404.html<br>INFO  Generated: about/index.html<br>INFO  Generated: categories/index.html<br>INFO  Generated: tags/index.html<br>INFO  Generated: 2015/03/04/hello-world/index.html<br>INFO  Generated: archives/index.html</p>
-<h3 id="一直没解决-网上搜寻很多也没找到解决方案-先记录一下-有空再研究，貌似不影响部署"><a href="#一直没解决-网上搜寻很多也没找到解决方案-先记录一下-有空再研究，貌似不影响部署" class="headerlink" title="一直没解决 网上搜寻很多也没找到解决方案 先记录一下 有空再研究，貌似不影响部署"></a>一直没解决 网上搜寻很多也没找到解决方案 先记录一下 有空再研究，貌似不影响部署</h3>]]></content>
+<h3 id="一直没解决-网上搜寻很多也没找到解决方案-先记录一下-有空再研究，貌似不影响部署"><a href="#一直没解决-网上搜寻很多也没找到解决方案-先记录一下-有空再研究，貌似不影响部署" class="headerlink" title="一直没解决 网上搜寻很多也没找到解决方案 先记录一下 有空再研究，貌似不影响部署"></a>一直没解决 网上搜寻很多也没找到解决方案 先记录一下 有空再研究，貌似不影响部署</h3><h2 id=""><a href="#" class="headerlink" title="*"></a><em>*</em></h2><h3 id="貌似就是这个问题-执行npm-install-hexo-util-–save后然后编译就没问题了"><a href="#貌似就是这个问题-执行npm-install-hexo-util-–save后然后编译就没问题了" class="headerlink" title="貌似就是这个问题 执行npm install hexo-util –save后然后编译就没问题了"></a>貌似就是这个问题 执行npm install hexo-util –save后然后编译就没问题了</h3>]]></content>
     
     <summary type="html">
     
