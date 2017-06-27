@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://xiongsw.me/2017/03/04/hexo%E6%8A%A5%E9%94%99/</loc>
+    
+    <lastmod>2017-06-27T11:03:13.208Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://xiongsw.me/about/index.html</loc>
     
     <lastmod>2017-03-07T23:24:19.600Z</lastmod>
@@ -23,9 +30,9 @@
   </url>
   
   <url>
-    <loc>http://xiongsw.me/2017/03/04/hexo%E6%8A%A5%E9%94%99/</loc>
+    <loc>http://xiongsw.me/2016/10/05/java-design-pattern3/</loc>
     
-    <lastmod>2017-03-07T23:00:02.964Z</lastmod>
+    <lastmod>2017-03-07T22:52:39.664Z</lastmod>
     
   </url>
   
@@ -44,13 +51,6 @@
   </url>
   
   <url>
-    <loc>http://xiongsw.me/2016/10/04/java-design-pattern2/</loc>
-    
-    <lastmod>2017-03-07T22:52:39.664Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://xiongsw.me/2016/10/03/java-design-pattern/</loc>
     
     <lastmod>2017-03-07T22:52:39.664Z</lastmod>
@@ -58,7 +58,7 @@
   </url>
   
   <url>
-    <loc>http://xiongsw.me/2016/10/05/java-design-pattern3/</loc>
+    <loc>http://xiongsw.me/2016/10/04/java-design-pattern2/</loc>
     
     <lastmod>2017-03-07T22:52:39.664Z</lastmod>
     
